@@ -1,0 +1,20 @@
+{
+  "message": "Success",
+  "data": {
+    "bnpnWalletCard": {
+      "imgUrls": [
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Gift-Black.png",
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Gift-White.png",
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Glasses-Black.png",
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Glasses-White.png",
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Lipstick-Black.png",
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Lipstick-White.png"
+      ],
+      "rnParams": {
+        "borderWidth": 1,
+        "borderColor": "pink",
+        "borderRadius": 10
+      }
+    }
+  }
+}
