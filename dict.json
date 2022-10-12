@@ -11,9 +11,9 @@
         "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Lipstick-White.png"
       ],
       "rnParams": {
-        "borderWidth": 3,
-        "borderColor": "yellow",
-        "borderRadius": 50
+        "borderWidth": 2,
+        "borderColor": "red",
+        "borderRadius": 10
       }
     }
   }
