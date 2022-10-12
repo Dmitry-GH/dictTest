@@ -3,7 +3,7 @@
   "data": {
     "bnpnWalletCard": {
       "imgUrls": [
-        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Gift-Black.png",
+        "https://okty-public-cdn.s3.us-west-2.amazonaws.com/www.okty.app/images/bnpn/walletCard/WalletCard-BnpnMulti-2-Gift-Black.png"
       ],
       "rnParams": {
         "borderWidth": 5,
